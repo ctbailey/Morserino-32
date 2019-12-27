@@ -430,7 +430,7 @@ With our device you can set interword space independently from intercharacter sp
 
 Select a "Koch lesson" between 1 and 50 (you will learn 50 characters in total through the Koch method). The number of the lesson and the character associated with that lesson will be displayed in the menu.
 
-The order of the characters learned has not been strictly defined by Koch, and therefore different learning courses use slightly different orders. Here we use the same order of characters as defined by the program "Just Lean Morse Code", which again is almost identical to  the order used by the "SuperMorse" software package (see http://www.qsl.net/kb5wck/super.html). The order is as follows:
+The order of the characters learned has not been strictly defined by Koch, and therefore different learning courses use slightly different orders. Here we use the same order of characters as defined by the program "Just Learn Morse Code", which again is almost identical to  the order used by the "SuperMorse" software package (see http://www.qsl.net/kb5wck/super.html). The order is as follows:
 
 [cols=">.3,3,>.3,3",options=header,width=80%,stripes=odd]
 |===
@@ -580,7 +580,7 @@ This modus does not have many parameters (see the section <<parameters>>); maybe
 
 You can use the WiFi feature of the Heltec ESP32 Wifi LoRa Module used in the Morserino-32 for two functions of the device:
 
-* Uploading a text file to the Morserino-32 that can then be played in CW Generator Modus oder Echo Trainer modus.
+* Uploading a text file to the Morserino-32 that can then be played in CW Generator Modus or Echo Trainer modus.
 * Uploading the binary file of a new firmware version.
 
 For both of these functionalities the file to be uploaded (be it a text file or the compiled binary file for the software update)  must be on your computer (even a tablet or smartphone will work, as you only need basic web-browser functionality on that device), and your Morserino must be connected to the same WiFi network as your computer.
